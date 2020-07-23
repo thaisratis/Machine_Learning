@@ -1,2 +1,2 @@
 # Machine_Learning
-This folder contains some machine learning examples
+This repository contains some machine learning examples
